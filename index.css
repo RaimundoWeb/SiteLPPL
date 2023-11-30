@@ -1,0 +1,16 @@
+	/* Estilo externo */
+
+.cabecalho{
+	text-align: left;
+	font-family:Arial;
+	font-size: 40px;
+	color: #4B0082;
+}
+.menus{
+	text-align:left;
+	font-family:Arial;
+	font-size:20px;
+	color:#4B0082;
+	text-align:italic;
+}
+	
